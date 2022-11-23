@@ -1,0 +1,27 @@
+img{
+    border-radius: 150px;
+    border : solid green 10px;
+    width:200px; height:300px;
+}
+body{
+    text-align:center;
+}
+
+#www,#name{
+    font-family: 'Playfair Display', serif;
+}
+.line{
+    background-color:black;
+    width:80px; height:5px;
+    margin:auto;
+    margin-top:-10px;
+    margin-bottom: 10px;; 
+}
+#welcome{
+    background: linear-gradient(#e62222 0%,#e68b22 50%, #e6e622 100% );
+}
+#writings a{
+    color:purple;
+    font-size:20px;
+    text-decoration: none;
+}
